@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1394620095"/>
+  <Params Value=" -MObjFPC -Scghi -CX -Cg -O2 -XX -l -vewnhibq -Fi/home/mila/lazarus/comp_ruler/lib/x86_64-linux -Fl/opt/gnome/lib -Fu/home/mila/.lazarus/lib/SQLDBLaz/lib/x86_64-linux/gtk2 -Fu/home/mila/.lazarus/lib/IDEIntf/units/x86_64-linux/gtk2 -Fu/home/mila/.lazarus/lib/SynEdit/units/x86_64-linux/gtk2 -Fu/home/mila/.lazarus/lib/LazControls/lib/x86_64-linux/gtk2 -Fu/home/mila/.lazarus/lib/units/x86_64-linux/gtk2 -Fu/usr/lib/lazarus/lcl/units/x86_64-linux -Fu/usr/lib/lazarus/components/codetools/units/x86_64-linux -Fu/home/mila/lazarus/source/lib/lib/x86_64-linux -Fu/usr/lib/lazarus/components/lazutils/lib/x86_64-linux -Fu/usr/lib/lazarus/packager/units/x86_64-linux -Fu/home/mila/lazarus/comp_ruler/ -FU/home/mila/lazarus/comp_ruler/lib/x86_64-linux/ -dLCL -dLCLgtk2 comp_ruler.lpr"/>
+</CONFIG>
